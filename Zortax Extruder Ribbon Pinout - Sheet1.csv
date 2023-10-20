@@ -1,0 +1,21 @@
+Pin #,Description
+1,E Motor Pin 1
+2,E Motor Pin 2
+3,E Motor Pin 3
+4,E Motor Pin 4
+5,24V +
+6,24V +
+7,24V +
+8,24V +
+9,24V +
+10,Heater Mosfet
+11,Heater Mosfet
+12,Heater Mosfet
+13,Heater Mosfet
+14,Heater Mosfet
+15,GND
+16,GND
+17,E Temp
+18,E Temp
+19,FAN -
+20,Q12
